@@ -1,5 +1,5 @@
 #write your code here
-sleep(5)
+
 number = 10
 def countdown(number)
 while number > 0
